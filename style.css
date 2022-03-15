@@ -1,0 +1,23 @@
+.campus-img {
+    width: 500px;
+    border: 10px ridge darkgray;
+}
+
+.campus-info1 {
+    font-size: medium;
+}
+
+.campus-life {
+    border: 2px gray solid;
+    width: fit-content;
+    display: inline-block;
+}
+
+.achievementBtn {
+    width: 70%;
+}
+
+.alumni {
+    height: 250px;
+    border: 5px darkgoldenrod ridge;
+}
